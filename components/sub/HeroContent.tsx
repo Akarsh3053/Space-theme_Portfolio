@@ -7,7 +7,7 @@ import {
     slideInFromRight,
     slideInFromTop,
 } from "@/utils/motion";
-import { SparklesIcon } from "@heroicons/react/24/solid";
+import { CommandLineIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 
 const HeroContent = () => {
@@ -22,9 +22,9 @@ const HeroContent = () => {
                     variants={slideInFromTop}
                     className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
                 >
-                    <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
+                    <CommandLineIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
                     <h1 className="Welcome-text text-[13px]">
-                        Fullstack Developer Portfolio
+                        echo 'hello world!!'
                     </h1>
                 </motion.div>
 
@@ -33,21 +33,20 @@ const HeroContent = () => {
                     className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
                 >
                     <span>
-                        Providing
+                        Hi, I'm
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
                             {" "}
-                            the best{" "}
+                            Akarsh{" "}
                         </span>
-                        project exprience
                     </span>
                 </motion.div>
 
                 <motion.p
                     variants={slideInFromLeft(0.8)}
-                    className="text-lg text-gray-400 my-5 max-w-[600px]"
+                    className="text-xl text-gray-200 my-5 max-w-[600px]"
                 >
-                    I&apos;m a Full Stack Software Engineer with experience in Website,
-                    Mobile, and Software development. Check out my projects and skills.
+                    I am a Full Stack Developer with skills in web development,
+                    <br />machine learning and cyber security. Check out my projects and skills.
                 </motion.p>
                 <motion.a
                     variants={slideInFromLeft(1)}
