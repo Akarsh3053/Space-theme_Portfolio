@@ -172,7 +172,7 @@ export const Backend_skill = [
     },
 ];
 
-export const Other_skill = [
+export const IT_sec = [
     {
         skill_name: "Metasploit",
         Image: "/metasploit.png",
