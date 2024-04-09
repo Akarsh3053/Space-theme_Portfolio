@@ -60,14 +60,17 @@ export const Socials = [
     {
         name: "Github",
         src: "/github.png",
+        url: "https://github.com/Akarsh3053",
     },
     {
         name: "LinkedIn",
         src: "/linkedin.svg",
+        url: "https://www.linkedin.com/in/akarsh3053",
     },
     {
         name: "Instagram",
         src: "/instagram.svg",
+        url: "https://www.instagram.com/only_akarsh",
     },
 ];
 
