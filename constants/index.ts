@@ -2,8 +2,8 @@ export const Skill_main = [
     {
         skill_name: "C++",
         Image: "/cpp.png",
-        width: 60,
-        height: 60,
+        width: 70,
+        height: 70,
     },
     {
         skill_name: "Python",
@@ -35,12 +35,23 @@ export const Skill_main = [
         width: 70,
         height: 70,
     },
-
+    {
+        skill_name: "Streamlit",
+        Image: "/streamlit.png",
+        width: 80,
+        height: 80,
+    },
+    {
+        skill_name: "Jupyter Notebook",
+        Image: "/jupyter.png",
+        width: 70,
+        height: 70,
+    },
     {
         skill_name: "Numpy",
         Image: "/Numpy.png",
-        width: 50,
-        height: 50,
+        width: 70,
+        height: 70,
     },
 
 ];
@@ -66,8 +77,8 @@ export const Frontend_skill = [
     {
         skill_name: "Html 5",
         Image: "/html.png",
-        width: 80,
-        height: 80,
+        width: 70,
+        height: 70,
     },
     {
         skill_name: "Css",
@@ -100,12 +111,6 @@ export const Frontend_skill = [
         height: 80,
     },
     {
-        skill_name: "React Query",
-        Image: "/reactquery.png",
-        width: 80,
-        height: 80,
-    },
-    {
         skill_name: "Type Script",
         Image: "/ts.png",
         width: 80,
@@ -123,14 +128,14 @@ export const Backend_skill = [
     {
         skill_name: "Node js",
         Image: "/node-js.png",
-        width: 80,
-        height: 80,
+        width: 75,
+        height: 75,
     },
     {
         skill_name: "Express js",
         Image: "/express.png",
-        width: 80,
-        height: 80,
+        width: 75,
+        height: 75,
     },
     {
         skill_name: "Mongo db",
@@ -162,19 +167,25 @@ export const Backend_skill = [
         width: 70,
         height: 70,
     },
-    {
-        skill_name: "Graphql",
-        Image: "/graphql.png",
-        width: 80,
-        height: 80,
-    },
 ];
 
 export const Other_skill = [
     {
-        skill_name: "C++",
-        Image: "/cpp.png",
-        width: 60,
-        height: 60,
+        skill_name: "Metasploit",
+        Image: "/metasploit.png",
+        width: 75,
+        height: 75,
+    },
+    {
+        skill_name: "Nmap",
+        Image: "/nmap.png",
+        width: 75,
+        height: 75,
+    },
+    {
+        skill_name: "Bash",
+        Image: "/bash.png",
+        width: 75,
+        height: 75,
     },
 ];
