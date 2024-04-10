@@ -15,6 +15,7 @@ const Navbar = () => {
                         src="/Logo.gif"
                         alt="logo"
                         width={70}
+                        unoptimized
                         height={70}
                         className="cursor-pointer hover:animate-slowspin"
                     />

@@ -41,7 +41,7 @@ const Encryption = () => {
                 </div>
 
                 <div className="Welcome-box px-[15px] py-[4px] z-[20] brder my-[20px] border-[#7042f88b] opacity-[0.9]">
-                    <h1 className="Welcome-text text-[12px]">My Dream</h1>
+                    <h1 className="Welcome-text text-[12px]">@Akarsh3053</h1>
                 </div>
             </div>
             <div className="absolute z-[20] bottom-[10px] px-[5px]">
