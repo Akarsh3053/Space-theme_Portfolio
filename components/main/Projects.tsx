@@ -14,17 +14,32 @@ const Projects = () => {
                 <ProjectCard
                     src="/IRIS.jpg"
                     title="Project IRIS"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    description="It is a Computer Vision application that can be used to deploy Computer vision tools that can harness the power of existing camera systems by automating tracking and logging."
                 />
                 <ProjectCard
                     src="/AutoBot.png"
                     title="Autobot"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    description="This interactive Web-based AutoML app can train machine learning models with minimum effort, allowing users to develop Machine Learning apps quickly."
                 />
                 <ProjectCard
                     src="/owldone.png"
                     title="Owldone"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
+                />
+                <ProjectCard
+                    src="/owldone.png"
+                    title="Owldone"
+                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
+                />
+                <ProjectCard
+                    src="/owldone.png"
+                    title="Owldone"
+                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
+                />
+                <ProjectCard
+                    src="/owldone.png"
+                    title="Owldone"
+                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
                 />
             </div>
         </div>
