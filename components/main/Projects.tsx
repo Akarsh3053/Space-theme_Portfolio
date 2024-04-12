@@ -10,7 +10,7 @@ const Projects = () => {
             <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
                 My Projects
             </h1>
-            <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
+            <div className="h-full w-full grid grid-cols-1 md:grid-cols-3 gap-10 px-10">
                 <ProjectCard
                     src="/IRIS.jpg"
                     title="Project IRIS"
@@ -27,9 +27,9 @@ const Projects = () => {
                     description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
                 />
                 <ProjectCard
-                    src="/owldone.png"
-                    title="Owldone"
-                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
+                    src="/flappyAI.jpg"
+                    title="Flappy Bird AI"
+                    description="An artificial intelligence agent that can learn to play the popular mobile game Flappy Bird using the NEAT algorithm, using neural networks that control the in-game character."
                 />
                 <ProjectCard
                     src="/owldone.png"
