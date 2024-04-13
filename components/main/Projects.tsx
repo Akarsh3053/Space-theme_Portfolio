@@ -27,19 +27,19 @@ const Projects = () => {
                     description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
                 />
                 <ProjectCard
+                    src="/insight.jpeg"
+                    title="INSIGHT"
+                    description="A collection of OSINT tools written in python that can be used through python-CLI for profiling and foot-printing, these tools can streamline process of information gathering."
+                />
+                <ProjectCard
+                    src="/PixelMage.png"
+                    title="PixelMage"
+                    description="PixelMage is a Saas platform that offers a variety of Image Manipulation tools for the users to easily do complex edits on the images with the help of AI."
+                />
+                <ProjectCard
                     src="/flappyAI.jpg"
                     title="Flappy Bird AI"
                     description="An artificial intelligence agent that can learn to play the popular mobile game Flappy Bird using the NEAT algorithm, using neural networks that control the in-game character."
-                />
-                <ProjectCard
-                    src="/owldone.png"
-                    title="Owldone"
-                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
-                />
-                <ProjectCard
-                    src="/owldone.png"
-                    title="Owldone"
-                    description="OwlDone is a next and react-based web app that can be used as a collaborative SAAS platform for project management and task planning, increasing team's productivity."
                 />
             </div>
         </div>
