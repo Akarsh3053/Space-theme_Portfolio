@@ -1,10 +1,10 @@
 <div align="center">
-      <h1> <img src="https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" width="80px"><br/>Akarsh's Portfolio</h1>
+      <h1> <img src="https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" width="80px"><br/>Space themed Portfolio</h1>
      </div>
 <p align="center"> <a href="https://www.onlyakarsh.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://twitter.com/only_akarsh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&logo=twitter&logoColor=white" style="vertical-align:center" /></a> <a href="https://twitter.com/only_akarsh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/akarsh3053/}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
 # Description
-This is the code for my space themed portfolio built using React, Next and Tailwind CSS. Feel free to check out its live version <a href="www.onlyakarsh.com" target="_blank">Here</a>. Also, it is a fairly simple template and feel free to use it for yourself the setup is like any other next project, still I'll leave steps below.
+This is the code for a space-themed software developer portfolio built using React, Next, and Tailwind CSS. Feel free to check out its live version <a href="www.onlyakarsh.com" target="_blank">Here</a>. Also, it is a fairly simple template, and feel free to use it for yourself the setup is like any other next project, still I'll leave the steps below.
 
 
 # Tech Used
