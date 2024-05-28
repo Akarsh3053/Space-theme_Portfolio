@@ -51,9 +51,10 @@ const HeroContent = () => {
                 </motion.p>
                 <motion.a
                     variants={slideInFromLeft(1)}
+                    href="/contact"
                     className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
                 >
-                    Learn More!
+                    Contact Me!
                 </motion.a>
             </div>
 
