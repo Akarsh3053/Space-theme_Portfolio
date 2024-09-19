@@ -13,7 +13,7 @@ This is the code for a space-themed software developer portfolio built using Rea
 
 
  # Setup and run:
-- Step 1: Clone the project.
+- Step 1: Clone the repository -
 ```bash
 git clone https://github.com/Akarsh3053/Portfolio
 ``` 
@@ -21,7 +21,7 @@ git clone https://github.com/Akarsh3053/Portfolio
 ```bash
 npm install
 ```
-- Step 3: Once ready run the following command to launch the local server -
+- Step 3: Then run the following command to launch the local server -
 ```bash
 npm run dev
 ```
